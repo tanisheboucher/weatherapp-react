@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <WeatherApp/>
       <h6>
-      <a href='bouchers.com'>Open-source code</a> by Tanishe Boucher
+      <a href='https://github.com/tanisheboucher/weatherapp-react'>Open-source code</a> by Tanishe Boucher
       </h6>
     </div>
     
